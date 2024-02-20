@@ -1,2 +1,3 @@
 # Design-Patterns
-Design Patterns Assignments
+
+Assignments to Free University Course - Design Patterns CS306048
