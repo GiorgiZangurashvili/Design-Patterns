@@ -1,0 +1,8 @@
+# Lint
+black
+flake8
+isort
+mypy
+tabulate
+typer[all]
+types-tabulate==0.8.0
